@@ -1,0 +1,20 @@
+h1 {
+  font-family: verdana;
+}
+
+table, th, td {
+  text-align: center;
+}
+
+#main {
+  text-align: left;
+}
+
+a:hover {
+  color: red;
+  text-decoration: underline;
+}
+
+a:link {
+  text-decoration: none;
+}
